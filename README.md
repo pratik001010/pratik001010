@@ -13,15 +13,14 @@
 
 ---
 
-- 🎓 Currently pursuing an **Erasmus Mundus Joint Master’s in Embedded Intelligence & Nano Systems Engineering (EMINENT)**
-- 🌍 Mobility: **Greece 🇬🇷 | Germany 🇩🇪 | France 🇫🇷**
-- 💡 Focus: **IoT systems, LoRaWAN, Embedded AI, and Edge Computing**
-- 🔭 Project: **LoRaWAN-based Indoor Path Loss Analysis** with **IoT Dashboard Integration**
-- 📷 Built: **ESP32-CAM Smart Surveillance** (pan-tilt, motion detection, SD recording)
-- 🌱 Learning: **AWS IoT Core, STM32, Machine Learning for Edge Devices**
-- 🤝 Open to collaborations in **IoT, Smart Cities, and Embedded AI research**
-- 📫 Reach me: **pratik010khadka@gmail.com**
-- ⚡ Fun fact: I love hiking, traveling, and building things that make life smarter
+-  Currently pursuing an **Erasmus Mundus Joint Master’s in Embedded Intelligence & Nano Systems Engineering (EMINENT)**
+-  Mobility: **Greece 🇬🇷 | Germany 🇩🇪 | France 🇫🇷**
+-  Focus: **IoT systems, LoRaWAN, Embedded AI, and Edge Computing**
+-  Recent Project: **LoRaWAN-based Indoor Path Loss Analysis** with **IoT Dashboard Integration**
+-  Learning: **AWS IoT Core, STM32, Machine Learning for Edge Devices**
+-  Open to collaborations in **IoT, Smart Cities, and Embedded AI research**
+-  Reach me: **pratik010khadka@gmail.com**
+-  Fun fact: I love hiking, traveling, and building things that make life smarter
 
 ---
 
@@ -37,7 +36,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+###  Languages and Tools
 
 <p align="center">
   <img alt="Arduino" width="45" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
