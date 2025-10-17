@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi, I'm Pratik Khadka</h1>
+<h1 align="center">I'm Pratik Khadka</h1>
 <h3 align="center">Embedded Systems & IoT • Automation • Edge AI</h3>
 <p align="center"><b>Automating ideas into real-world impact</b></p>
 
