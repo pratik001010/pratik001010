@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-<h1 align="center">I'm Pratik Khadka</h1>
-<h3 align="center">Embedded Systems & IoT • Automation • Edge AI</h3>
-<p align="center"><b>Automating ideas into real-world impact</b></p>
 
+
+<p align="center">
+  <img src="https://github.com/pratik001010/pratik001010/blob/d37b4f21a74715def19ad06f61a927fce66c1e81/pratika.PNG" alt="Pratik Khadka" width="240" style="border-radius: 15px;"/>
+</p>
+<h1 align="center"> I'm Pratik Khadka</h1>
+<h3 align="center">An IoT, Embedded Systems & AI Enthusiast from Nepal</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratik001010&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratik001010&title=Commits,Repositories,Stars&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
