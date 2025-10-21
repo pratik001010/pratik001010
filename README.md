@@ -40,15 +40,15 @@
 
 <p align="center">
   <img alt="Arduino" width="45" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
-  <img alt="STM32" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/33/STM32_logo.svg" />
+  <img alt="STM32" width="90" src="https://raw.githubusercontent.com/STMicroelectronics/.github/311e6372d0fccf4bb17769da319b2bac525ffd43/profile/images/st-logo.svg" />
   <img alt="AWS" width="45" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
   <img alt="Python" width="45" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
   <img alt="C" width="45" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
   <img alt="TensorFlow" width="45" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" />
   <img alt="Node-RED" width="45" src="https://cdn.worldvectorlogo.com/logos/node-red-1.svg" />
-  <img alt="MQTT" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/MQTT-Logo.svg" />
+  <img alt="MQTT" width="90" src="https://github.com/mqtt/mqttorg-graphics/blob/master/mqtt-logo-250.png?raw=true" />
   <img alt="MATLAB" width="45" src="https://cdn.worldvectorlogo.com/logos/matlab.svg" />
-  <img alt="OpenCV" width="45" src="https://cdn.worldvectorlogo.com/logos/opencv.svg" />
+  <img alt="OpenCV" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
   <img alt="Docker" width="45" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
 </p>
 
