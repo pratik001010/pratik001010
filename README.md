@@ -53,6 +53,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg" alt="Snake game of contributions" />
+</p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
