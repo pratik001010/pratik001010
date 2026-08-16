@@ -13,9 +13,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg" alt="Snake game of contributions" />
 </p>
-Visit me : meetpratik.me
----
 
+---
+- Visit me : [meetpratik.me](https://meetpratik.me/)
 -  Currently pursuing an **Erasmus Mundus Joint Master’s in Embedded Intelligence & Nano Systems Engineering (EMINENT)**
 -  Mobility: **Greece 🇬🇷 | Germany 🇩🇪 | France 🇫🇷**
 -  Focus: **IoT systems, LoRaWAN, Embedded AI, and Edge Computing**
